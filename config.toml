@@ -1,4 +1,4 @@
-baseURL = /
+baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'My website'
 theme = 'typo'
@@ -7,7 +7,7 @@ theme = 'typo'
 tag = 'tags'
 
 # Google analytics code
-googleAnalytics = "G-xxxxxxxxx"
+#googleAnalytics = "G-xxxxxxxxx"
 
 [params]
 # Meta description
